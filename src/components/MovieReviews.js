@@ -1,1 +1,9 @@
-// Code MovieReviews Here
+class MovieReviews extends React.Component {
+  constructor() {
+    super();
+  }
+
+  render() {
+    return ();
+  }
+}
