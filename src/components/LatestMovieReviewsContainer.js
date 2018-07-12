@@ -7,7 +7,8 @@ const URL = 'https://api.nytimes.com/svc/movies/v2/reviews/all.json?'
 
 // Code LatestMovieReviewsContainer Here
 class LatestMovieReviewsContainer extends React.Component {
-  constructor() {
+  constructor(props) {
+    super(props);
     //code
   }
 
