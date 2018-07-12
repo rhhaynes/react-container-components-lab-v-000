@@ -3,6 +3,10 @@ class MovieReviews extends React.Component {
     super();
   }
 
+  componentDidMount(){
+    //code
+  }
+
   render() {
     return ();
   }
