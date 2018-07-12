@@ -4,6 +4,11 @@ class MovieReviews extends React.Component {
   }
 
   render() {
-    return ();
+    return (
+      <div className="review-list">
+        <div className="review">
+        </div>
+      </div>
+    );
   }
 }
