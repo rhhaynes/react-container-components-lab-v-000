@@ -3,6 +3,7 @@ class MovieReviews extends React.Component {
     return (
       <div className="review-list">
         <div className="review">
+          { reviews.map( review =>  ) }
         </div>
       </div>
     );
